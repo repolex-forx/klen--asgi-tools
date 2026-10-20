@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/asgi-tools/commit/1a1a85dfb94678ee6f0ccee9e574fe3b3458ef39",
       "git:hexsha": "1a1a85dfb94678ee6f0ccee9e574fe3b3458ef39",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "3.2.1"
     },
     {
